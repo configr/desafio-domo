@@ -38,8 +38,6 @@ Obs. 3: As tarefas podem ser criadas sem um Domo vinculado a ela.
 
 # Solução
 
-Clone este repositório para implementar a sua solução e ao concluir sua implementação realize um pull request para sinalizar que você terminou.
-
 A solução será avaliada através dos critérios a seguir:
 
 - Arquitetura coerente, consistência e código idiomático.
@@ -55,4 +53,6 @@ A solução deve apresentar as funcionalidades a seguir:
 
 Crie um arquivo `comments.md` para documentar sua linha de pensamento, dificuldades, ideias e possíveis melhorias durante o seu processo de desenvolvimento.
 
-**Atenção**: Jogo limpo, cópias de outros candidatos não serão toleradas.
+Ao concluir envie sua solução para jobs@configr.com
+
+**Atenção**: Não clone este repositório ou publique sua solução para evitar plágio.
